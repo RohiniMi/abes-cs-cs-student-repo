@@ -1,0 +1,416 @@
+[
+  {
+    "id": 1771403690681,
+    "name": "Aditya Tayal",
+    "roll": "2300320130019",
+    "admission": "2023b0131292",
+    "email": "aditya6112005@gmail.com",
+    "sem": "IT - E",
+    "github": "https://github.com/aditya-3761/FSD---6th-sem.git"
+  },
+  {
+    "id": 1771403721562,
+    "name": "Nitin Patel",
+    "roll": "2300320130168",
+    "admission": "2023B0131204",
+    "email": "nitinkmrp@gmail.com",
+    "sem": "IT E",
+    "github": "https://github.com/nitinkmrp/abes-FSD-Nitn-sem6"
+  },
+  {
+    "id": 1771403751840,
+    "name": "Shourya Awasthi",
+    "roll": "2300320130239",
+    "admission": "2023B0131226",
+    "email": "shouryaawasthi45@gmail.com",
+    "sem": "IT E",
+    "github": "https://github.com/Awasthi95/FSD-backend"
+  },
+  {
+    "id": 1771403784358,
+    "name": "Maruf Raza",
+    "roll": "2300320130147",
+    "admission": "2023B0131075",
+    "email": "marufraza00@gmail.com",
+    "sem": "IT&E",
+    "github": "https://github.com/MarufRaza/ABES-IT-6-E-2026"
+  },
+  {
+    "id": 1771403801358,
+    "name": "NIKHIL MAURYA",
+    "roll": "2300320130162",
+    "admission": "2023B0131079",
+    "email": "nikhilabes2020@gmail.com",
+    "sem": "IT - E",
+    "github": "https://github.com/Nikhil7427/ABES-FSD-6sem"
+  },
+  {
+    "id": 1771403819190,
+    "name": "vicky chauhan",
+    "roll": "2300320130277",
+    "admission": "2023B0131151",
+    "email": "vickysinghchauhan789@gmail.com",
+    "sem": "IT &  E",
+    "github": "https://github.com/vickychauhan334/FSD-BACKEND"
+  },
+  {
+    "id": 1771403850107,
+    "name": "SAHIL YADAV",
+    "roll": "2300320130211",
+    "admission": "2023B0131178",
+    "email": "sahilyadav5571@gmail.com",
+    "sem": "IT ,E",
+    "github": "https://github.com/sysahilyadav/ABES-IT-FSD-6"
+  },
+  {
+    "id": 1771403886260,
+    "name": "Parth Dwivedi",
+    "roll": "2300320130173",
+    "admission": "2023b0131197",
+    "email": "dwivediparth7777@gmail.com",
+    "sem": "IT - E",
+    "github": "https://github.com/elProfessor077/6th-sem-FSD-2026"
+  },
+  {
+    "id": 1771404009427,
+    "name": "Harshit Chaudhary",
+    "roll": "2300320130113",
+    "admission": "2023b0131134",
+    "email": "harshitwork1877@gmail.com",
+    "sem": "IT-E",
+    "github": "https://github.com/Harshit78198/Backend-6th-sem"
+  },
+  {
+    "id": 1771404010272,
+    "name": "Ritik Roushan",
+    "roll": "2300320130199",
+    "admission": "2023b0131101",
+    "email": "ritikr6206@gmail.com",
+    "sem": "IT-E",
+    "github": "https://github.com/ritikr6206/FSD-IT"
+  },
+  {
+    "id": 1771404031058,
+    "name": "Divyansh Singh",
+    "roll": "2300320130098",
+    "admission": "2023B0131154",
+    "email": "Divyansh.23b0131154@abes.ac.in",
+    "sem": "IT-B",
+    "github": "https://github.com/DivyanshSingh777/FSD-SEM_5"
+  },
+  {
+    "id": 1771404035847,
+    "name": "tushar",
+    "roll": "2300320130259",
+    "admission": "2023B0131219",
+    "email": "sg6006694@gmail.com",
+    "sem": "IT-E",
+    "github": "https://github.com/tushar-10072002/fsd6sem"
+  },
+  {
+    "id": 1771404076621,
+    "name": "ANSHIKA GUPTA",
+    "roll": "2300320130055",
+    "admission": "2023B0131213",
+    "email": "ganshika145@gmail.com",
+    "sem": "IT - E",
+    "github": "Anshikagupta7899"
+  },
+  {
+    "id": 1771404103904,
+    "name": "Sachin Mishra",
+    "roll": "2300320130209",
+    "admission": "2023B0131222",
+    "email": "msachinmishra8@gmail.com",
+    "sem": "IT-E",
+    "github": "https://github.com/Sachin-264/CLass-_FSD"
+  },
+  {
+    "id": 1771404117658,
+    "name": "Mohit Kuntal",
+    "roll": "2300320130154",
+    "admission": "2023b0131217",
+    "email": "mohit.23b0131217@abes.ac.in",
+    "sem": "IT- E",
+    "github": "https://github.com/mohit27msk/FSD_6thSem"
+  },
+  {
+    "id": 1771404120157,
+    "name": "Shivam Gupta",
+    "roll": "2400320139007",
+    "admission": "2024b01330012",
+    "email": "shivamguptaskg6@gmail.com",
+    "sem": "IT & E",
+    "github": "https://github.com/Shivm75/FSD6/tree/main/day1/promises"
+  },
+  {
+    "id": 1771404136944,
+    "name": "Ronit sharma",
+    "roll": "2300320130206",
+    "admission": "2023b0131020",
+    "email": "ronitt.sharma1402@gmail.com",
+    "sem": "IT-E",
+    "github": "https://github.com/ronitsharma14/ronit-fsd-sem6"
+  },
+  {
+    "id": 1771404137312,
+    "name": "Manas srivastava",
+    "roll": "2300320130142",
+    "admission": "2023b0131170",
+    "email": "msri0075a@gmail.com",
+    "sem": "IT & E",
+    "github": "https://github.com/Manas-srivastava404/ABES-FSD-IT6E"
+  },
+  {
+    "id": 1771404152845,
+    "name": "ANSHIKA GUPTA",
+    "roll": "2300320130055",
+    "admission": "2023B0131213",
+    "email": "ganshika145@gmail.com",
+    "sem": "IT -E",
+    "github": "github.com/Anshikagupta7899"
+  },
+  {
+    "id": 1771404172440,
+    "name": "Manasvi Arora",
+    "roll": "2300320130143",
+    "admission": "2023b0131103",
+    "email": "manasvi925@gmail.com",
+    "sem": "IT E",
+    "github": "https://github.com/manasvi116/FSD_6SEM-2026"
+  },
+  {
+    "id": 1771404199880,
+    "name": "Vishnu Pad ",
+    "roll": "2300320130285",
+    "admission": "2023B0131240",
+    "email": "ruvishushukla1@gmail.com",
+    "sem": "IT-E",
+    "github": "https://github.com/rv-unq/FSD-6th"
+  },
+  {
+    "id": 1771404240470,
+    "name": "Divyansh",
+    "roll": "2300320130095",
+    "admission": "2023B0131275",
+    "email": "divyansh07020@gmail.com",
+    "sem": "IT E",
+    "github": "https://github.com/Divyansh0702/FSD_6th_Sem"
+  },
+  {
+    "id": 1771404247858,
+    "name": "Mohammad Amaan",
+    "roll": "2300320130151",
+    "admission": "2023b0131108",
+    "email": "AmaanL5slim3@gmail.com",
+    "sem": "IT-E",
+    "github": "https://github.com/AmaanL5/FSD_TRAINING_6SEM.git"
+  },
+  {
+    "id": 1771404263326,
+    "name": "Aradhya Srivastava",
+    "roll": "2300320130061",
+    "admission": "2023b0131006",
+    "email": "aradhyas1973@gmail.com",
+    "sem": "IT-E",
+    "github": "https://github.com/aradhya4/FSD-sem6"
+  },
+  {
+    "id": 1771404266781,
+    "name": "Gargi Singh",
+    "roll": "2300320130107",
+    "admission": "2023B0131100",
+    "email": "11gargisingh@gmail.com",
+    "sem": "IT-E",
+    "github": "https://github.com/11gargiigit/FSD-Sem-6"
+  },
+  {
+    "id": 1771404271176,
+    "name": "Gaurav kumar Mishra",
+    "roll": "2300320130108",
+    "admission": "2023B0131289",
+    "email": "mishragauravkumar2005@gmail.com",
+    "sem": "IT&E",
+    "github": "https://github.com/gauravkmishra09/FSD-sem-6"
+  },
+  {
+    "id": 1771404272079,
+    "name": "piyush yadav",
+    "roll": "2300320130176",
+    "admission": "23023b0131093",
+    "email": "piyush.23b0131093@abes.ac.in",
+    "sem": "IT(C)",
+    "github": "https://github.com/PiyushYadav2005/ABESec-2026-6th-Sem"
+  },
+  {
+    "id": 1771404273785,
+    "name": "Shikhar Pratap Singh",
+    "roll": "2300320130232",
+    "admission": "2023B0131043",
+    "email": "shikharpratap555@gmaiil.com",
+    "sem": "IT- E",
+    "github": "https://github.com/SHIKHARP1579/6th-Sem-FSD"
+  },
+  {
+    "id": 1771404279390,
+    "name": "Niketan Tyagi",
+    "roll": "2300320130161",
+    "admission": "2023B0131262",
+    "email": "tyaginiketan80@gmail.com",
+    "sem": "IT E",
+    "github": "https://github.com/NIKETANTYAGI"
+  },
+  {
+    "id": 1771404288430,
+    "name": "Divyansh Rathore",
+    "roll": "2300320130097",
+    "admission": "2023b0131087",
+    "email": "r.divyansh550@gmail.com",
+    "sem": "IT&E",
+    "github": "https://github.com/Divyanshrathore1/abes-fsd-6th-sem"
+  },
+  {
+    "id": 1771404330823,
+    "name": "Tushar Kalotra",
+    "roll": "2400320139009",
+    "admission": "2024b01330010",
+    "email": "tusharkalotra16@gmail.com",
+    "sem": "IT - E",
+    "github": "Tushar"
+  },
+  {
+    "id": 1771404330840,
+    "name": "Shubhendu pratap singh ",
+    "roll": "2400320139008",
+    "admission": "2024b01330008",
+    "email": "shubhamsingh26067@gmail.com",
+    "sem": "IT  (E)",
+    "github": "https://github.com/shubham638777"
+  },
+  {
+    "id": 1771404373913,
+    "name": "Zohadur Rahman Jafri",
+    "roll": "2300320130292",
+    "admission": "2023B0131212",
+    "email": "zohadurrjafri@gmail.com",
+    "sem": "IT - E",
+    "github": "https://github.com/zohadjafri/FSD6"
+  },
+  {
+    "id": 1771404474292,
+    "name": "UTKARSH RAI",
+    "roll": "2300320130267",
+    "admission": "2023B0131102",
+    "email": "utlarshrai988@gmail.com",
+    "sem": "IT&E",
+    "github": "https://github.com/utkarshh10/fsd-6-sem"
+  },
+  {
+    "id": 1771404524865,
+    "name": "Paridhi Raghuvanshi ",
+    "roll": "2300320130172",
+    "admission": "2023b0131064",
+    "email": "paridhi.raghuvanshi009@gmail.com",
+    "sem": "IT-E",
+    "github": "https://github.com/paridhi-raghuvanshi/FSD-6TH"
+  },
+  {
+    "id": 1771404541941,
+    "name": "Abhinav Giri ",
+    "roll": "2300320130011",
+    "admission": "2023B0131198",
+    "email": "abhinavgiri544@gmail.com",
+    "sem": "IT(E)",
+    "github": "https://github.com/abhinav7685/ABES-IT-ABHINAV-FSD"
+  },
+  {
+    "id": 1771404544944,
+    "name": "Aman Kumar ",
+    "roll": "2300320130030",
+    "admission": "2023b0131188",
+    "email": "amanshuk916@gmail.com",
+    "sem": "It E",
+    "github": "https://github.com/amanshukl/Js_6thsem_training"
+  },
+  {
+    "id": 1771404647825,
+    "name": "ved kumar ",
+    "roll": "2300320130275",
+    "admission": "2023b0131022",
+    "email": "sharmaps8442298@gmail.com",
+    "sem": "IT-E",
+    "github": "https://github.com/vedkumar9541/FSD14"
+  },
+  {
+    "id": 1771404658159,
+    "name": "Aman Kumar",
+    "roll": "2300320130030",
+    "admission": "2023b0131188",
+    "email": "amanshuk916@gmail.com",
+    "sem": "IT E",
+    "github": "https://github.com/amanshukl/Js_6thsem_training"
+  },
+  {
+    "id": 1771404821183,
+    "name": "FSD MAM",
+    "roll": "1",
+    "admission": "123",
+    "email": "fsd@gmail.com",
+    "sem": "IT - E",
+    "github": "https://github.com/RohiniMI"
+  },
+  {
+    "id": 1771405166680,
+    "name": "shreyash yadav",
+    "roll": "2300320130244",
+    "admission": "2023B0131232",
+    "email": "yadavshreyash933@gmail.com",
+    "sem": "IT E",
+    "github": "https://github.com/Shreyashyadav3/javascript"
+  },
+  {
+    "id": 1771405230297,
+    "name": "yashu rana ",
+    "roll": "2300320130291",
+    "admission": "2023B0131092",
+    "email": "yashurana49@gmail.com",
+    "sem": "IT E",
+    "github": "https://github.com/Yashu4994/backendfsdsem6"
+  },
+  {
+    "id": 1771405865787,
+    "name": "Himanshu  Rathour",
+    "roll": "2300320130118",
+    "admission": "2023b0131241",
+    "email": "himanshurathod2515@gmail.com",
+    "sem": "It E",
+    "github": "https://github.com/Himanshurathod25/Backend_6th_sem"
+  },
+  {
+    "id": 1771408829745,
+    "name": "sourav joshi ",
+    "roll": "nhi btaunga",
+    "admission": "nhi btanunga",
+    "email": "souravjoshivlogs",
+    "sem": "youtube",
+    "github": "git nhi only 10 M hit"
+  },
+  {
+    "id": 1771408835431,
+    "name": "ANKIT SAINI",
+    "roll": "2300320130047",
+    "admission": "2023b0131090",
+    "email": "ankitsaini9438@gmail.com",
+    "sem": "IT , E",
+    "github": "https://github.com/ankitsaini06/ABES-IT-6TH-SEM-2026"
+  },
+  {
+    "id": 1771409245442,
+    "name": "AAKASH SINGH",
+    "roll": "2300320130001",
+    "admission": "2023B0131207",
+    "email": "akash936924@gmail.com",
+    "sem": "IT, E",
+    "github": "https://github.com/akash936924-cyber/FSD-ABES-IT-E-6TH_SEM"
+  }
+]

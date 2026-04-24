@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1773743736254,
+    "name": "Radhika chauhan",
+    "roll": "2023b0101146",
+    "admission": "2300320100196",
+    "email": "radhikachauhanrc5@gmail.com",
+    "sem": "CSE and B",
+    "github": "https://github.com/Radhikaa-chauhan/FSD-CSE-B"
+  },
+  {
+    "id": 1773744708143,
+    "name": "Shivansh Agrawal",
+    "roll": "2300320310177",
+    "admission": "2023b0311169",
+    "email": "shivanshwork8888@gmail.com",
+    "sem": "CSE B",
+    "github": "https://github.com/ShivanshSinghal8/abes-cse-b-2026"
+  },
+  {
+    "id": 1773744794302,
+    "name": "Sonu",
+    "roll": "2300320100252",
+    "admission": "2023b0101141",
+    "email": "sb9432024@gmail.com",
+    "sem": "CSE & D",
+    "github": "https://github.com/Sonubhardwaj2003"
+  },
+  {
+    "id": 1773744854504,
+    "name": "Shruti Singh",
+    "roll": "2300320100243",
+    "admission": "2023B0101060",
+    "email": "shru9113@gmail.com",
+    "sem": "CSE B",
+    "github": "https://github.com/shrutisgh/FSD-CSE-B/commit/975ab264eedfa707d986e8fdc23b0e67410282e7"
+  },
+  {
+    "id": 1773744979616,
+    "name": "Satyam Maurya",
+    "roll": "2300320100225",
+    "admission": "2023B0101051",
+    "email": "satyammaurya635635@gmail.com",
+    "sem": "CSE B",
+    "github": "https://github.com/satyammaurya999/CSE--B--FSD"
+  },
+  {
+    "id": 1773745087894,
+    "name": "Mohd Saad Siddiqui",
+    "roll": "2300320100151",
+    "admission": "2023B0101223",
+    "email": "ms7644942@gmail.com",
+    "sem": "CSE B",
+    "github": "https://github.com/mohdsaad1019114/FSD-CSE-B-EVEN"
+  }
+]

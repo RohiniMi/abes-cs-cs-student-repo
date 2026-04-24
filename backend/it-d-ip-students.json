@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1776755145384,
+    "name": "Amratansh Singh",
+    "roll": "2300320130040",
+    "admission": "2023b0131136",
+    "email": "amratanshsingh920@gmail.com",
+    "sem": "IT & D",
+    "ip": "192.168.11.21"
+  },
+  {
+    "id": 1776755354024,
+    "name": "Rajat verma",
+    "roll": "2300320130188",
+    "admission": "2023b0131113",
+    "email": "rvverma1015@gmail.com",
+    "sem": "it-d",
+    "ip": "http://172.16.7.72:5173/"
+  },
+  {
+    "id": 1776755446858,
+    "name": "Rajesh Yadav",
+    "roll": "2300320130190",
+    "admission": "2023b0131180",
+    "email": "rajesh.infooo@gmail.com",
+    "sem": "IT,D",
+    "ip": "http://localhost:3000/"
+  },
+  {
+    "id": 1776755484464,
+    "name": "HARDIK JAIN",
+    "roll": "2023B0131117",
+    "admission": "2300320130110",
+    "email": "jainhardikjain2005@gmail.com",
+    "sem": "IT(D)",
+    "ip": "http://localhost:3000/"
+  },
+  {
+    "id": 1776755582897,
+    "name": "adarsh kushwaha",
+    "roll": "2300320130017",
+    "admission": "2023b0131054",
+    "email": "adarsh8kushwaha@gmail.com",
+    "sem": "IT-D",
+    "ip": "http://172.16.7.72:5173/"
+  },
+  {
+    "id": 1776755818544,
+    "name": "Prakhar Tiwari",
+    "roll": "2300320130177",
+    "admission": "2023b0131121",
+    "email": "prakhar2004tiwari@gmail.com",
+    "sem": "btech it d",
+    "ip": "http://172.16.14.127:5173/"
+  },
+  {
+    "id": 1776755901733,
+    "name": "AYAN PANDEY",
+    "roll": "2300320130075",
+    "admission": "2023b0131056",
+    "email": "aayanpandey8528@gmail.com",
+    "sem": "IT D",
+    "ip": "172.16.13.103"
+  },
+  {
+    "id": 1776755944235,
+    "name": "Prakhar Tiwari",
+    "roll": "2300320130177",
+    "admission": "2023b0131121",
+    "email": "prakhar2004tiwari@gmail.com",
+    "sem": "btech it d",
+    "ip": "172.16.14.127:5173"
+  },
+  {
+    "id": 1776756035554,
+    "name": "Rajesh Yadav",
+    "roll": "2300320130190",
+    "admission": "2023b0131180",
+    "email": "rajesh.infooo@gmail.com",
+    "sem": "IT,D",
+    "ip": "http://172.16.11.150:3000"
+  },
+  {
+    "id": 1776756063415,
+    "name": "Ansh TYagi",
+    "roll": "2300320130052",
+    "admission": "2023B0131088",
+    "email": "anshtyagi7845@gmail.com",
+    "sem": "IT-D",
+    "ip": "http://172.16.7.26:5173/"
+  },
+  {
+    "id": 1776756183229,
+    "name": "Rishav Kumar Gupta",
+    "roll": "2300320130196",
+    "admission": "2023b0131082",
+    "email": "rishavofficials1727@gmail.com",
+    "sem": "IT&D",
+    "ip": "http://172.16.6.219:5173"
+  },
+  {
+    "id": 1776756459486,
+    "name": "Abhinav Chaudhary",
+    "roll": "2300320130010",
+    "admission": "2023B0131143",
+    "email": "abhichaudhary8850@gmail.com",
+    "sem": "IT D",
+    "ip": "http://172.16.9.6:3000/"
+  },
+  {
+    "id": 1776756480850,
+    "name": "Atharv Dhiman",
+    "roll": "2300320130071",
+    "admission": "2023B0131223",
+    "email": "ayushdhiman.9997@gmail.com",
+    "sem": "IT-D",
+    "ip": "http://172.16.7.26:5173/"
+  },
+  {
+    "id": 1776756649869,
+    "name": "Jatin Singh",
+    "roll": "2300320130125",
+    "admission": "2023b013104",
+    "email": "jatinsingh5572@gmail.com",
+    "sem": "IT D",
+    "ip": "http://172.16.3.132:5173/"
+  },
+  {
+    "id": 1776756688832,
+    "name": "Rajneesh Chaubey ",
+    "roll": "2200320130134",
+    "admission": "2022b0131156",
+    "email": "rajneeshchaubey360@gmail.com",
+    "sem": "IT & D",
+    "ip": "172.16.6.219:5173"
+  },
+  {
+    "id": 1776756727322,
+    "name": "Ritik Tiwari",
+    "roll": "2300320130200",
+    "admission": "2023b0131202",
+    "email": "drritik341@gmail.com",
+    "sem": "IT-D",
+    "ip": "http://172.16.6.53:5173/"
+  },
+  {
+    "id": 1776756780221,
+    "name": "Lakshit Teotia",
+    "roll": "2300320130139",
+    "admission": "2023B0131072",
+    "email": "lakshitteotia54@gmail.com",
+    "sem": "IT&D",
+    "ip": "http://172.16.9.73:5173/"
+  },
+  {
+    "id": 1776756781921,
+    "name": "Mayank Maurya",
+    "roll": "2300320130149",
+    "admission": "2023b0131055",
+    "email": "mayankmaurya1229@gmail.com",
+    "sem": "IT-D",
+    "ip": "http://172.16.7.72:5173/"
+  },
+  {
+    "id": 1776756791490,
+    "name": "Ritik Kumar Patel",
+    "roll": "2300320130198",
+    "admission": "2023B0131127",
+    "email": "ritikkumarpatel5000@gmail.com",
+    "sem": "IT-D",
+    "ip": "http://172.16.6.53:5173/"
+  },
+  {
+    "id": 1776756882096,
+    "name": "HARDIK JAIN",
+    "roll": "2023b0131117",
+    "admission": "2300320130110",
+    "email": "jainhardikjain2005@gmail.com",
+    "sem": "IT-D",
+    "ip": "http://172.16.3.132:5173/"
+  },
+  {
+    "id": 1776756966526,
+    "name": "Pratyaksh Raj Singh",
+    "roll": "2300320130179",
+    "admission": "2023b0131227",
+    "email": "newraj990@gmail.com",
+    "sem": "IT & D",
+    "ip": "172.16.6.219:5173"
+  },
+  {
+    "id": 1776756980940,
+    "name": "Dakshita Pal",
+    "roll": "2300320130084",
+    "admission": "2023b0131063",
+    "email": "paldakshita78@gmail.com",
+    "sem": "IT-D",
+    "ip": "http://172.16.7.72:5173/"
+  },
+  {
+    "id": 1776756988849,
+    "name": "HARDIK JAIN",
+    "roll": "2023b0131117",
+    "admission": "2300320130110",
+    "email": "jainhardikjain2005@gmail.com",
+    "sem": "IT-D",
+    "ip": "172.16.13.103"
+  },
+  {
+    "id": 1776757166996,
+    "name": "Aman  Chaudhary ",
+    "roll": "2300320130029",
+    "admission": "2023b0131191",
+    "email": "amanchaudhary9611@gmail.com",
+    "sem": "B.Tech",
+    "ip": "http://192.168.x.x:5173"
+  }
+]

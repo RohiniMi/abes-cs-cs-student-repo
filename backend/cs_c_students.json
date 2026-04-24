@@ -1,0 +1,659 @@
+[
+  {
+    "id": 1771481394160,
+    "name": "ashmit",
+    "roll": "2300320120070",
+    "admission": "2023B0121124",
+    "email": "ashmityadav2404@gmail.com",
+    "sem": "CS(C)",
+    "github": "https://github.com/Ashmit565/FSD-CS/tree/master/fsd-cs-c"
+  },
+  {
+    "id": 1771481412245,
+    "name": "Devang Varshney",
+    "roll": "2400320129003",
+    "admission": "2024B0129003",
+    "email": "itsmedevu16@gmail.com",
+    "sem": "CS-C",
+    "github": "https://github.com/techiedevang/ABES_C_FSD_DEVANG"
+  },
+  {
+    "id": 1771481412331,
+    "name": "Kavya Singh",
+    "roll": "2300320120126",
+    "admission": "2023B0121052",
+    "email": "singhkavya0209@gmail.com",
+    "sem": "CS-C",
+    "github": "https://github.com/Kavyasingh02/FSD-2026"
+  },
+  {
+    "id": 1771481416035,
+    "name": "Vaibhavi Srivastava",
+    "roll": "2400320129017",
+    "admission": "2024B0123002",
+    "email": "vaibhavisrivastava3004@gmail.com",
+    "sem": "CS - C",
+    "github": "https://github.com/VaibhaviCode/ABES_FSD_CS_C_VAIBHAVI.git"
+  },
+  {
+    "id": 1771481429173,
+    "name": "Raghavendra Tiwari",
+    "roll": "2300320120192",
+    "admission": "2023B0121170",
+    "email": "raghavendratiwari9628@gmail.com",
+    "sem": "cs",
+    "github": "https://github.com/ragghu9628/ABES-FSD"
+  },
+  {
+    "id": 1771481436047,
+    "name": "Priyansh Saxena",
+    "roll": "2400320129009",
+    "admission": "2024b01230010",
+    "email": "priyanshsax0709@gmail.com",
+    "sem": "CS-C",
+    "github": "https://github.com/pritzz07/ABES_EC_FSD_6TH_2026"
+  },
+  {
+    "id": 1771481447299,
+    "name": "Shubh Gautam",
+    "roll": "2300320120245",
+    "admission": "2023B0121041",
+    "email": "ayushubhayush301@gmail.com",
+    "sem": "computer science ",
+    "github": "https://github.com/Shubhgautam01/ABESEC-6th-SEM"
+  },
+  {
+    "id": 1771481480261,
+    "name": "Rohan sirohi",
+    "roll": "2300320120205",
+    "admission": "2023B0121068",
+    "email": "sirohirohan771@gmail.com",
+    "sem": "CS-C",
+    "github": "https://github.com/rohansirohi07/FSDSECB2025"
+  },
+  {
+    "id": 1771481492263,
+    "name": "Rahul prajapati",
+    "roll": "3200320120193",
+    "admission": "2023B0121137",
+    "email": "rahulprajapati1234123@gmail.com",
+    "sem": "cs-c",
+    "github": "https://github.com/rahulprajap12/ABES_EC_CS_C_FSD_RAHUL_PRAJAPATI"
+  },
+  {
+    "id": 1771481530279,
+    "name": "Aditya Chauhan",
+    "roll": "2300320120017",
+    "admission": "2023B0121199",
+    "email": "adityachauhan7337@gmail.com",
+    "sem": "Computer Science&C",
+    "github": "https://github.com/adityachauhan0001/ABES_EC-FSD-6TH-2026"
+  },
+  {
+    "id": 1771481553677,
+    "name": "Rohan Saxena",
+    "roll": "2300320120204",
+    "admission": "2023B0121003",
+    "email": "rohansxn8772@gmail.com",
+    "sem": "CS-C",
+    "github": "https://github.com/r0hansaxena/FSD-CS-6C"
+  },
+  {
+    "id": 1771481557363,
+    "name": "Srishti Rawat",
+    "roll": "2300320120252",
+    "admission": "2023b0121014",
+    "email": "rawat.srishti1010@gmail.com",
+    "sem": "CS_C",
+    "github": "https://github.com/SrishtiDev/ABES-CS-C-6Th-2026"
+  },
+  {
+    "id": 1771481579561,
+    "name": "Mohd Kaif",
+    "roll": "2400320129007",
+    "admission": "2024B01230006",
+    "email": "mohd.24b01230006@abes.ac.in",
+    "sem": "COMPUTER SCIENCE  (C)",
+    "github": "https://github.com/mohdkaif12345/abes-fsd-6"
+  },
+  {
+    "id": 1771481604184,
+    "name": "Mohd Danish",
+    "roll": "2300320120154",
+    "admission": "2023b0121238",
+    "email": "dm4790287@gmail.com",
+    "sem": "CS-C",
+    "github": "https://github.com/MohdDanish99/6thsemFSD"
+  },
+  {
+    "id": 1771481617302,
+    "name": "Riddhi Saxena",
+    "roll": "2300320120197",
+    "admission": "2023b0121082",
+    "email": "riddhisaxena23@gmail.com",
+    "sem": "CS-C",
+    "github": "https://github.com/riddhi-saxena-05/ABES_EC_CS_C_FSD_RIDDHI_SAXENA"
+  },
+  {
+    "id": 1771481618826,
+    "name": "Saurabh Kumar Jha ",
+    "roll": "2400320129013",
+    "admission": "2024B01230019",
+    "email": "saurabh2006jha@gmail.com",
+    "sem": "CS C",
+    "github": "https://github.com/saurabhjh007/abes-cs-c-saurabh_jha_6thSEM_FSD"
+  },
+  {
+    "id": 1771481629150,
+    "name": "Rohit Kumar",
+    "roll": "2400320129012",
+    "admission": "2024b01230016",
+    "email": "shakyarohit174@gmail.com",
+    "sem": "CS/C",
+    "github": "https://github.com/baba7754/FSD-Training-CS6"
+  },
+  {
+    "id": 1771481633698,
+    "name": "Vishal Giri",
+    "roll": "2300320120279",
+    "admission": "2023b0121100",
+    "email": "vishalgiri5583@gmail.com",
+    "sem": "CS-C",
+    "github": "https://github.com/vishalgiri9457/ABES-FSD-6th"
+  },
+  {
+    "id": 1771481636242,
+    "name": "Vishal",
+    "roll": "2400320129018",
+    "admission": "2024b01230003",
+    "email": "vishal.24b01230003@abes.ac.in",
+    "sem": "CS-C",
+    "github": "https://github.com/Vishal212al/fsd-6th"
+  },
+  {
+    "id": 1771481638131,
+    "name": "Abhishek yadav",
+    "roll": "2300320120012",
+    "admission": "2023b0121220",
+    "email": "ay992580@gmail.com",
+    "sem": "CS - C",
+    "github": "https://github.com/abhisheky1817/abes-cs-c-6th"
+  },
+  {
+    "id": 1771481650017,
+    "name": "Tanmay Gupta",
+    "roll": "2400320129015",
+    "admission": "2024B0123001",
+    "email": "varshneytanmay75@gmail.com",
+    "sem": "computer Science -C",
+    "github": "https://github.com/Tanmay5555/ABES-CS-C-6th--sem-2026"
+  },
+  {
+    "id": 1771481669713,
+    "name": "ARYA YADAV",
+    "roll": "2300320120062",
+    "admission": "2023B0121247",
+    "email": "aryayadav48008@gmail.com",
+    "sem": "COMPUTER SCIENCE  - C",
+    "github": "https://github.com/aryayadav48/ABES_EC_CS_C_FSD_sem_6_ARYA"
+  },
+  {
+    "id": 1771481673900,
+    "name": "Prachi Gaur",
+    "roll": "2300320120172",
+    "admission": "2023b0121162",
+    "email": "prachigaur9090@gmail.com",
+    "sem": "CS 'C'",
+    "github": "https://github.com/prachigaur15/ABES-CS-C-6th-2026"
+  },
+  {
+    "id": 1771481692059,
+    "name": "pankaj lodi",
+    "roll": "2300320120167",
+    "admission": "2023b0121158",
+    "email": "pankajrajput884089@gmail.com",
+    "sem": "cs c",
+    "github": "https://github.com/pankaj-rajput88/ABES-CS-C-6TH-2026"
+  },
+  {
+    "id": 1771481723362,
+    "name": "Saksham Yadav",
+    "roll": "2300320120218",
+    "admission": "2023b0121167",
+    "email": "sakshamy830@gmail.com",
+    "sem": "Cs & C",
+    "github": "https://github.com/SakshamYadav04/ABES-CS-C-6TH-2026"
+  },
+  {
+    "id": 1771481723365,
+    "name": "Saksham Yadav",
+    "roll": "2300320120218",
+    "admission": "2023b0121167",
+    "email": "sakshamy830@gmail.com",
+    "sem": "Cs & C",
+    "github": "https://github.com/SakshamYadav04/ABES-CS-C-6TH-2026"
+  },
+  {
+    "id": 1771481739312,
+    "name": "Siddhant Saini ",
+    "roll": "23003210120249",
+    "admission": "2023B0121078",
+    "email": "siddhantsaini098@gmail.com",
+    "sem": "CS_C",
+    "github": "https://github.com/siddhant621/FSD_SIDDHANT_ABES.git"
+  },
+  {
+    "id": 1771481759033,
+    "name": "Ansh Arora ",
+    "roll": "2300320120049",
+    "admission": "2023B0121092",
+    "email": "ansharora13b@gmail.com",
+    "sem": "CS&C",
+    "github": "https://github.com/Ansharora124/ABES_EC-FSD-6TH-2026"
+  },
+  {
+    "id": 1771481789977,
+    "name": "Mohd Azeem Khan",
+    "roll": "2400320129006",
+    "admission": "2024B01230005",
+    "email": "azeemkhan1597@gmail.com",
+    "sem": "CS AND \"C\"",
+    "github": "https://github.com/azeem-123/ABES-FSD-C-6TH"
+  },
+  {
+    "id": 1771481816315,
+    "name": "Harsh Vardhan Maurya ",
+    "roll": "2300320120109",
+    "admission": "2023B0121145",
+    "email": "mauryaharsh784@gmail.com",
+    "sem": "CS C",
+    "github": "https://github.com/mauryaharsh784/ABES-CS-C-6TH-2026"
+  },
+  {
+    "id": 1771481818475,
+    "name": "Akash Anand",
+    "roll": "2300320120027",
+    "admission": "2023B0121122",
+    "email": "akash8797823674@gmail.com",
+    "sem": "CS - C",
+    "github": "https://github.com/akash4501/newfsd6thsem"
+  },
+  {
+    "id": 1771481828164,
+    "name": "Yashpatel",
+    "roll": "2300320120283",
+    "admission": "2023b0121181",
+    "email": "yp566371@gmail.com",
+    "sem": "cs/c",
+    "github": "https://github.com/yash09-p/ABES-CS-C-6TH-2026.git"
+  },
+  {
+    "id": 1771481834607,
+    "name": "Chirag Teotia",
+    "roll": "2300320120083",
+    "admission": "2023B0121226",
+    "email": "chiragteotia11@gmail.com",
+    "sem": "Computer Science",
+    "github": "https://github.com/Chiragteotia12/abes-cs-c-6th-2026"
+  },
+  {
+    "id": 1771481847956,
+    "name": "Prakhar Jain",
+    "roll": "2300320120176",
+    "admission": "2023B0121040",
+    "email": "jainprakhar223@gmail.com",
+    "sem": "CS-C",
+    "github": "https://github.com/PrakharJain345/FSD-CS-6C"
+  },
+  {
+    "id": 1771481851914,
+    "name": "Anshika Sharma",
+    "roll": "2300320120054",
+    "admission": "2023B0121161",
+    "email": "anshikashps0786@gmail.com",
+    "sem": "CS&C",
+    "github": "https://github.com/Anshika231005/ABES_EC-FSD-6th-2026"
+  },
+  {
+    "id": 1771481870595,
+    "name": "Sachin Yadav",
+    "roll": "2300320120214",
+    "admission": "2023b0121163",
+    "email": "sachinvns198@gmail.com",
+    "sem": "cs c",
+    "github": "https://github.com/itssachin235/fsd-cs-c-6thsem"
+  },
+  {
+    "id": 1771481882366,
+    "name": "Pradeep Kumar",
+    "roll": "2300320120173",
+    "admission": "2023B0121129",
+    "email": "pradeepsharma3658@gmail.com",
+    "sem": "CS -C",
+    "github": "https://github.com/Pradeep3658/ABESEC_CS_C_SEM_6th_FSD"
+  },
+  {
+    "id": 1771481897512,
+    "name": "Aman Pandey",
+    "roll": "2300320120031",
+    "admission": "2023b0121148",
+    "email": "amanpandey1097@gmail.com",
+    "sem": "CS C",
+    "github": "https://github.com/amanpandey1097/ABES_EC_CS_C_6TH_AMAN"
+  },
+  {
+    "id": 1771481903442,
+    "name": "Aman Upadhyay",
+    "roll": "2300320120035",
+    "admission": "2023b0121108",
+    "email": "amanbasti4@gmail.com",
+    "sem": "CS - C",
+    "github": "https://github.com/thisisamanupadhyay/ABES_EC_CS_C_FSD_6thAMAN_UPADHYAY"
+  },
+  {
+    "id": 1771481910455,
+    "name": "Md taslim",
+    "roll": "2300320120149",
+    "admission": "2023b0121217",
+    "email": "mdtaslimtk786@gmail.com",
+    "sem": "cs c",
+    "github": "https://github.com/taslimzafar"
+  },
+  {
+    "id": 1771481914442,
+    "name": "Akarsh Raj Agrahari",
+    "roll": "2300320120026",
+    "admission": "2023b0121159",
+    "email": "akarshraj12d@gmail.com",
+    "sem": "CS C",
+    "github": "https://github.com/Akarsh1122"
+  },
+  {
+    "id": 1771481917905,
+    "name": "Kundan Kumar",
+    "roll": "2300320120137",
+    "admission": "2023B0121088",
+    "email": "kundanyadavcs27@gmail.com",
+    "sem": "CS & C",
+    "github": "https://github.com/kundanyadav2/FSD2026"
+  },
+  {
+    "id": 1771481919598,
+    "name": "Anand",
+    "roll": "2300320120039",
+    "admission": "2023b0121038",
+    "email": "ayushsharma991910@gmail.com",
+    "sem": "cs-c",
+    "github": "https://github.com/AnandSharma-Git/fsdnew"
+  },
+  {
+    "id": 1771481925460,
+    "name": "pankaj lodhi",
+    "roll": "2300320120167",
+    "admission": "2023b0121158",
+    "email": "pankajrajput884089@gmail.com",
+    "sem": "cs c",
+    "github": "https://github.com/pankaj-rajput88/ABES-CS-C-6TH-2026"
+  },
+  {
+    "id": 1771481930939,
+    "name": "Gurvinder Singh",
+    "roll": "2300320120099",
+    "admission": "2023B0121116",
+    "email": "gurvindersingh000546@gmail.com",
+    "sem": "CS & C",
+    "github": "https://github.com/Gurvindersingh72"
+  },
+  {
+    "id": 1771481950410,
+    "name": "Aman Upadhyay",
+    "roll": "2300320120035",
+    "admission": "2023b0121108",
+    "email": "amanbasti4@gmail.com",
+    "sem": "CS-C",
+    "github": "https://github.com/thisisamanupadhyay/ABES_EC_CS_C_FSD_6thAMAN_UPADHYAY"
+  },
+  {
+    "id": 1771481951378,
+    "name": "saksham choudhary",
+    "roll": "2300320120216",
+    "admission": "2023b0121121",
+    "email": "sakshamchoudhary323@gmail.com",
+    "sem": "CS-C",
+    "github": "https://github.com/SAKSHAMCHOUDHARY29?tab=repositories"
+  },
+  {
+    "id": 1771481997938,
+    "name": "Yash Vardhan Singh",
+    "roll": "2300320120284",
+    "admission": "2023B0121254",
+    "email": "tyash7025@gmail.com",
+    "sem": "CS C",
+    "github": "https://github.com/yash007-bh/FSD1"
+  },
+  {
+    "id": 1771482015430,
+    "name": "Anand",
+    "roll": "2300320120039",
+    "admission": "2023b0121038",
+    "email": "ayushsharma991910@gmail.com",
+    "sem": "CS-C",
+    "github": "https://github.com/AnandSharma-Git/fsdnew"
+  },
+  {
+    "id": 1771482025115,
+    "name": "Kavya Kesharwani",
+    "roll": "2300320121025",
+    "admission": "2023b0121064",
+    "email": "kesharwani0125@gmail.com",
+    "sem": "CS - C",
+    "github": "https://github.com/KavyaKesharwani/Abesec-cs-c-fsd-sem6"
+  },
+  {
+    "id": 1771482084611,
+    "name": "Tushar Sharma",
+    "roll": "2300320120261",
+    "admission": "2023B0121290",
+    "email": "tusharsharma20052010@gmail.com",
+    "sem": "CS -C",
+    "github": "https://github.com/TusharSharma2005/Abesec-cs-c-fsd-6th-sem/tree/main/DAY_1/promises"
+  },
+  {
+    "id": 1771482088904,
+    "name": "Anand",
+    "roll": "2300320120039",
+    "admission": "2023b0121038",
+    "email": "ayushsharma991910@gmail.com",
+    "sem": "CS-C",
+    "github": "https://github.com/AnandSharma-Git/ABES-CS-6"
+  },
+  {
+    "id": 1771482098049,
+    "name": "Sunny Kumar",
+    "roll": "2300320120255",
+    "admission": "2023b0121251",
+    "email": "sunnyykumar16@gmail.com",
+    "sem": "CS-C",
+    "github": "https://github.com/Sunnyyyy1/FsD01"
+  },
+  {
+    "id": 1771482103603,
+    "name": "Shweta Singh",
+    "roll": "2300320120248",
+    "admission": "2024b0121227",
+    "email": "shwetasinghh231@gamil.com",
+    "sem": "CS-C",
+    "github": "6semcs"
+  },
+  {
+    "id": 1771482129329,
+    "name": "Mohammad Fazal",
+    "roll": "2300320120152",
+    "admission": "2023B0121150",
+    "email": "fazalmohammad231@gmail.com",
+    "sem": "CS - C",
+    "github": "github.com/MFazal231"
+  },
+  {
+    "id": 1771482138640,
+    "name": "Suraj",
+    "roll": "2300320120256",
+    "admission": "2023B0121222",
+    "email": "suraj23326776@gmail.com",
+    "sem": "CS-C",
+    "github": "https://github.com/suraj23326776/ABES_EC-CS_C_6th_-FSD-SURAJ/tree/master"
+  },
+  {
+    "id": 1771482212511,
+    "name": "Sanket Tyagi",
+    "roll": "2300320120211",
+    "admission": "2023b0121288",
+    "email": "sanket1983tyagi@gmail.com",
+    "sem": "CS-C",
+    "github": "https://github.com/sanket9557"
+  },
+  {
+    "id": 1771482308599,
+    "name": "Aayush Kumar Thakur ",
+    "roll": "2300320120003",
+    "admission": "2023B0121090",
+    "email": "thakuraayush633@gmail.com",
+    "sem": "CS & C",
+    "github": "https://github.com/aayush-th/abes-cs-c-6th-2026"
+  },
+  {
+    "id": 1771482353773,
+    "name": "Sundaram Singh",
+    "roll": "2300320120254",
+    "admission": "2023b0121176",
+    "email": "singhsundaram182@gmail.com",
+    "sem": "CS-C",
+    "github": "https://github.com/Sundaramsingh20/FSD-6th-sem"
+  },
+  {
+    "id": 1771482368764,
+    "name": "Shivam Gupta",
+    "roll": "2300320120236",
+    "admission": "2023B0121209",
+    "email": "sg1544693@gmail.com",
+    "sem": "CS & C",
+    "github": "http://172.16.40.247:5173/http://172.16.40.247:5173/"
+  },
+  {
+    "id": 1771482435264,
+    "name": "Karamveer singh",
+    "roll": "2300320120122",
+    "admission": "2023b0121166",
+    "email": "xzkarmveer790@gmail.com",
+    "sem": "CS-C",
+    "github": "https://github.com/karamveer790/ABES-CS-C-6th"
+  },
+  {
+    "id": 1771482460827,
+    "name": "Harsh Pandit ",
+    "roll": "230032012104",
+    "admission": "2023B0121098",
+    "email": "harsh.pandit9hp@gmail.com",
+    "sem": "CS & C",
+    "github": "https://github.com/Harsh916-0"
+  },
+  {
+    "id": 1771482521021,
+    "name": "Yashvi Singhal",
+    "roll": "2300320120286",
+    "admission": "2023b0121284",
+    "email": "yashvi.singhal2005@gmail.com",
+    "sem": "CS C",
+    "github": "https://github.com/yashvis19/abes-ec-6-sem"
+  },
+  {
+    "id": 1771482964358,
+    "name": "Navya Bhardwaj",
+    "roll": "2300320120158",
+    "admission": "2023B0121300",
+    "email": "bhardwajnavya79@gmail.com",
+    "sem": "cs-c",
+    "github": "https://github.com/navya703/abes-cs-c-6th-2026.git"
+  },
+  {
+    "id": 1771483459771,
+    "name": "love sirohi",
+    "roll": "2300320120141",
+    "admission": "2023b0121262",
+    "email": "lovesirohi410@gmail.com",
+    "sem": "CS-C",
+    "github": "https://github.com/Love4410/fsd-6-sem"
+  },
+  {
+    "id": 1771483630475,
+    "name": "Vedant Tomar",
+    "roll": "2300320120275",
+    "admission": "2023B0121225",
+    "email": "tomarvedant8449@gmail.com",
+    "sem": "CS-C",
+    "github": "https://github.com/vedant2134/ABES_CS-C_6_Sem"
+  },
+  {
+    "id": 1771484857575,
+    "name": "Palak Singhal",
+    "roll": "2300320120166",
+    "admission": "2023b0121191",
+    "email": "palaksinghal022@gmail.com",
+    "sem": "cs-c",
+    "github": "https://github.com/PalakSinghal166/fsd6_cs_C_palak.git"
+  },
+  {
+    "id": 1771484920930,
+    "name": "vanshika sharma ",
+    "roll": "2300320120272",
+    "admission": "2023B0121187",
+    "email": "vanshikaa180304@gmail.com",
+    "sem": "CS c",
+    "github": "https://github.com/Vanshika180304/FSD1"
+  },
+  {
+    "id": 1771484960661,
+    "name": "vanshika sharma ",
+    "roll": "2300320120272",
+    "admission": "2023B0121187",
+    "email": "vanshikaa180304@gmail.com",
+    "sem": "CS c",
+    "github": "https://github.com/Vanshika180304/FSD1"
+  },
+  {
+    "id": 1771486071510,
+    "name": "nishant Patel",
+    "roll": "2300320120164",
+    "admission": "2023b0121001",
+    "email": "np7920400@gmail.com",
+    "sem": "CS-C ",
+    "github": "https://github.com/nishantnn2/FSD6thsem"
+  },
+  {
+    "id": 1771486501550,
+    "name": "KHUSHBU KUMARI",
+    "roll": "2300320120127",
+    "admission": "2023B0121096",
+    "email": "khushbk2004@gmail.com",
+    "sem": "CS(C)",
+    "github": "https://github.com/khushbu33/ABES_EC-CS_C_6th-2026_KHUSHBU"
+  },
+  {
+    "id": 1771486583662,
+    "name": "KHUSHBU KUMARI",
+    "roll": "2300320120127",
+    "admission": "2023B0121096",
+    "email": "khushbk2004@gmail.com",
+    "sem": "CS(C)",
+    "github": "https://github.com/khushbu33/ABES_EC-CS_C_6th-2026_KHUSHBU"
+  },
+  {
+    "id": 1771486975261,
+    "name": "Dhairya Raj Rana",
+    "roll": "2400320129004",
+    "admission": "2024B01230017",
+    "email": "dhairyaraj233@gmail.com",
+    "sem": "C.S - C",
+    "github": "https://github.com/dhairyara/FSD-6th-sem"
+  }
+]

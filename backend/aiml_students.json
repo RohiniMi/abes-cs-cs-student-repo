@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1776400676471,
+    "name": "Aditya Maddheshiya",
+    "roll": "2400321539002",
+    "admission": "2024B15330014",
+    "email": "adityamaddheshiya669@gmail.com",
+    "sem": "CSE(AIML) & C",
+    "github": "https://github.com/adityamaddheshiy/FSD-MongoDB.git"
+  },
+  {
+    "id": 1776401190591,
+    "name": "HARSHIT SONI",
+    "roll": "2300321530088",
+    "admission": "2023b1531039",
+    "email": "harshit123412@gmail.com",
+    "sem": "AIML C ",
+    "github": "https://github.com/Harshit-23-create/MONGO_DB"
+  },
+  {
+    "id": 1776401526616,
+    "name": "Abhishek kumar Sahni",
+    "roll": "2400321539001",
+    "admission": "2024B15330006",
+    "email": "abhisheksahni018@gmail.com",
+    "sem": "CSE AIML C",
+    "github": "https://github.com/abhi018S/FSD-MONGO-DB.git"
+  },
+  {
+    "id": 1776401900752,
+    "name": "Dheeraj Singh",
+    "roll": "2300321530068",
+    "admission": "23B1531022",
+    "email": "dheerajsingh60058@gmail.com",
+    "sem": "CSE-AIML - C",
+    "github": "https://github.com/dheeraj1029/Mogoose"
+  },
+  {
+    "id": 1776401973023,
+    "name": "Ritesh Pandey",
+    "roll": "2400321539010",
+    "admission": "2400321539010",
+    "email": "pandeyritesh631@gmail.com",
+    "sem": "CSE-AIML",
+    "github": "https://github.com/Pritesh631/Mongo-DB.git"
+  },
+  {
+    "id": 1776402058507,
+    "name": "Shreyanshi singh",
+    "roll": "2300321530177",
+    "admission": "2023b1531111",
+    "email": "shreyanshisingh369@gmail.com",
+    "sem": "aiml c",
+    "github": "https://github.com/Shreyanshi-7/MONGO_DB_2"
+  },
+  {
+    "id": 1776402110377,
+    "name": "Utkarsh Pal",
+    "roll": "2300321530199",
+    "admission": "2023b1531093",
+    "email": "utkarshp1522@gmail.com",
+    "sem": "CSE(AIML)",
+    "github": "https://github.com/UtkOO7/Utkarsh-Pal-FSD-CSE-AIML-"
+  }
+]

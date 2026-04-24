@@ -1,0 +1,90 @@
+body {
+  background: #ffe6f0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  width: 95%;
+  max-width: 900px;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+  color: #ff2f7d;
+}
+
+.form {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+}
+
+.form input {
+  padding: 8px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.form button {
+  grid-column: span 3;
+  background: #ff2f7d;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+.table-box {
+  max-height: 420px;
+  overflow-y: auto;
+  margin-top: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, .2);
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+}
+
+.table th {
+  position: sticky;
+  top: 0;
+  background: #ff2f7d;
+  color: white;
+  padding: 8px;
+}
+
+.table td {
+  padding: 7px;
+  border: 1px solid #ddd;
+  text-align: center;
+  font-size: 14px;
+}
+
+.table tr:nth-child(even) {
+  background: #fff0f5;
+}
+
+.table button {
+  background: crimson;
+  color: white;
+  border: none;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+
+.table td button {
+  margin: 2px;
+  padding: 4px 7px;
+}
+
+.table td button:first-child {
+  background: #4caf50;
+}
+
+.table td button:last-child {
+  background: crimson;
+}
